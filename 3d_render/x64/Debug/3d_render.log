@@ -1,0 +1,54 @@
+﻿  object.cpp
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.h(63,23): warning C4305: аргумент: усечение из "double" в "const DATA_TYPE"
+          with
+          [
+              DATA_TYPE=float
+          ]
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(3,1): warning C4005: PI: изменение макроопределения
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.h(12): message : см. предыдущее определение "PI"
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(78,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(171,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(197,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(233,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(234,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(235,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(253,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(269,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(373,28): warning C4244: инициализация: преобразование "DATA_TYPE" в "int", возможна потеря данных
+          with
+          [
+              DATA_TYPE=float
+          ]
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(375,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(375,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(389,28): warning C4244: инициализация: преобразование "DATA_TYPE" в "int", возможна потеря данных
+          with
+          [
+              DATA_TYPE=float
+          ]
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(391,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(391,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(432,35): warning C4244: аргумент: преобразование "int" в "const DATA_TYPE", возможна потеря данных
+          with
+          [
+              DATA_TYPE=float
+          ]
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(453,31): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(472,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(506,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(525,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(533,50): warning C4244: аргумент: преобразование "float" в "Uint8", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(536,72): warning C4244: аргумент: преобразование "float" в "Uint8", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(536,61): warning C4244: аргумент: преобразование "float" в "Uint8", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(536,50): warning C4244: аргумент: преобразование "float" в "Uint8", возможна потеря данных
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(543,68): warning C4244: аргумент: преобразование "DATA_TYPE" в "int", возможна потеря данных
+          with
+          [
+              DATA_TYPE=float
+          ]
+C:\Users\mrkev\source\repos\3d_render\3d_render\object.cpp(543,52): warning C4244: аргумент: преобразование "DATA_TYPE" в "int", возможна потеря данных
+          with
+          [
+              DATA_TYPE=float
+          ]
+  3d_render.vcxproj -> C:\Users\mrkev\source\repos\3d_render\x64\Debug\3d_render.exe
